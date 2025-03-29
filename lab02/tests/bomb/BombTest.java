@@ -14,7 +14,6 @@ public class BombTest {
     // You won't be able to find any passwords here, sorry!
     public static final String BOMB_FILE = "src/bomb/Bomb.java";
     public static String[] lines;
-
     @Test
     @Tag("phase0")
     @DisplayName("Bomb Phase 0")
